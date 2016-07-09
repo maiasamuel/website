@@ -89,7 +89,7 @@ border-radius: 50%
 }
 
 .custom {
-   cursor: url(http://emojipedia-us.s3.amazonaws.com/cache/94/f0/94f03e8e72647373f93d5271ee594cfb.png), auto;
+   cursor: url(http://cur.cursors-4u.net/food/images1/foo73.gif), auto;
 }
 
 .container {
@@ -98,4 +98,8 @@ border-radius: 50%
 	padding: 5px;
 	border: 10px solid #c3f8fd;
 	background:#e7c2e4;
+}
+
+.link {
+	font-size: 50px;
 }
